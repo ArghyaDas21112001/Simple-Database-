@@ -1,2 +1,7 @@
 # Simple-Database-
-This is a simple database model which can be enhanced with more exciting features suited according to the convenience of the user. The basic features of the database includes operations : 
+This is a simple database model ,created using Python , which can be enhanced with more exciting features suited according to the convenience of the user. The basic features of the database includes operations : 
+--> Insertion of new data in the database
+--> Viewing the database
+--> Seraching along the database using a particular field
+--> Deletion of a data from the database based on date attribute
+--> Close button to exit from  the database 
